@@ -1,0 +1,15 @@
+#werr {
+    height: 100px;
+    width: 50px;
+}
+.bis3{
+    width: 100%;
+   
+    display: table;
+    text-align: center;
+    z-index: 9; 
+    height: 800px;
+}
+.bb{
+    background-color: aqua;
+}
